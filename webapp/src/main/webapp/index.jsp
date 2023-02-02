@@ -73,8 +73,8 @@
         border-right: 1px solid #eeeeee;
       }
 
-      .facebook {
-        background-color: #3b5998;
+      .github {
+        background-color: #1c1b22;
         color: #fff;
         font-size: 18px;
         padding-top: 5px;
@@ -84,8 +84,8 @@
         cursor: pointer;
       }
 
-      .twitter {
-        background-color: #1da1f2;
+      .discord {
+        background-color: #8339fa;
         color: #fff;
         font-size: 18px;
         padding-top: 5px;
@@ -231,11 +231,11 @@
             <div class="card2 card border-0 px-4 py-5">
               <div class="row mb-4 px-3">
                 <h6 class="mb-0 mr-4 mt-2">Sign in with</h6>
-                <div class="facebook text-center mr-3">
-                  <div class="fa fa-facebook"></div>
+                <div class="github text-center mr-3">
+                  <div class="fa fa-github"></div>
                 </div>
-                <div class="twitter text-center mr-3">
-                  <div class="fa fa-twitter"></div>
+                <div class="discord text-center mr-3">
+                  <div class="fa fa-discord"></div>
                 </div>
                 <div class="linkedin text-center mr-3">
                   <div class="fa fa-linkedin"></div>
