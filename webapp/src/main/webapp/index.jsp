@@ -235,7 +235,7 @@
                   <div class="fa fa-github"></div>
                 </div>
                 <div class="discord text-center mr-3">
-                  <div class="fa-brands fa-discord"></div>
+                  <div class="fab fa-discord"></div>
                 </div>
                 <div class="linkedin text-center mr-3">
                   <div class="fa fa-linkedin"></div>
